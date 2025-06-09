@@ -1,4 +1,5 @@
-# arch242-snake-game Project
+# Arch242-snake-game Project
+## Project changes made by the professor has been implemented in the part A of the code
 
 A full stack of tools and components to simulate a 4 bit custom Harvard Architecutre, including:
 - Assembler: A Python based assembler that compiles custom '.asm' files into machine code.
